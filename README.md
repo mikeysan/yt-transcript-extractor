@@ -23,7 +23,7 @@ pip install youtube-transcript-api
 Run the script from the command line, providing the YouTube URL as an argument:
 
 ```bash
-python script_name.py 'https://www.youtube.com/watch?v=your_video_id'
+python yt_transcript_extractor.py 'https://www.youtube.com/watch?v=your_video_id'
 ```
 
 ## Features
